@@ -1,2 +1,2 @@
-# Discord bot - Spotify
+# Discord bot - Spotify in Python
 
